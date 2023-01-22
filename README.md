@@ -15,5 +15,5 @@
     Mxolisi is an asset to any software development team, and is well-suited to work on both small and large projects.
  
  - 📫 How to reach a Mxolisi Magubane: mxomag074@gmail
- - ☎️ How to reach a Mxolisi Maguaben Fast: 060 4377 595
+ - ☎️ How to reach a Mxolisi Magubane Fast: 060 4377 595
 
