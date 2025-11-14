@@ -1,5 +1,6 @@
-👋🏾 ###Hi, I’m Mxolisi Magubane
-##Founder & Lead Developer at FallenWorldStudios
+👋🏾 Hi, I’m Mxolisi Magubane
+
+#Founder & Lead Developer at FallenWorldStudios
 
 I’m an indie game developer and software creator from Durban, South Africa, building immersive, fun, and meaningful digital experiences.
 I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2D games, and interactive tools that blend creativity with engineering.
