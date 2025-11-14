@@ -5,7 +5,7 @@
 I’m an indie game developer and software creator from Durban, South Africa, building immersive, fun, and meaningful digital experiences.
 I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2D games, and interactive tools that blend creativity with engineering.
 
-🚀** What I Do**
+🚀**What I Do**
 
 🎮 Game Development: 2D puzzle, arcade, and experimental games
 
@@ -29,7 +29,7 @@ YourPDFScanner  a simple and reliable PDF scanning app
 More games and experimental prototypes — check at www.fallenworldstudios.com
 
 
-🔧** Tech Stack**
+🔧**Tech Stack**
 
 Languages:
 C# · JavaScript · Java · Python
