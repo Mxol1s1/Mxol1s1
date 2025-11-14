@@ -44,9 +44,9 @@ REST APIs · Git/GitHub · UI/UX · Indie Publishing
 
 🎯 **Current Focus**
 
-+Growing FallenWorldStudios into a fully independent game studio
+* Growing FallenWorldStudios into a fully independent game studio
 
-+Building high-quality mobile games with replayability and challenge
+* Building high-quality mobile games with replayability and challenge
 
-+Creating tools that help people learn, think, and stay productive
+* Creating tools that help people learn, think, and stay productive
 
