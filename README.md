@@ -1,11 +1,11 @@
 👋🏾 Hi, I’m Mxolisi Magubane
 
-Founder & Lead Developer at FallenWorldStudios
+**Founder & Lead Developer at FallenWorldStudios**
 
 I’m an indie game developer and software creator from Durban, South Africa, building immersive, fun, and meaningful digital experiences.
 I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2D games, and interactive tools that blend creativity with engineering.
 
-🚀 What I Do
+🚀** What I Do**
 
 🎮 Game Development: 2D puzzle, arcade, and experimental games
 
@@ -17,7 +17,8 @@ I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2
 
 ☁️ Cloud-ready workflows (CI/CD, testing, optimization)
 
-🧵 Projects & Releases
+
+🧵 **Projects & Releases**
 
 Paceblocks Words Blast: a word-puzzle mobile game
 
@@ -27,7 +28,8 @@ YourPDFScanner  a simple and reliable PDF scanning app
 
 More games and experimental prototypes — check at www.fallenworldstudios.com
 
-🔧 Tech Stack
+
+🔧** Tech Stack**
 
 Languages:
 C# · JavaScript · Java · Python
@@ -38,11 +40,13 @@ Unity · Godot · Android Studio
 Other Skills:
 REST APIs · Git/GitHub · UI/UX · Indie Publishing
 
-🎯 Current Focus
 
-Growing FallenWorldStudios into a fully independent game studio
 
-Building high-quality mobile games with replayability and challenge
+🎯 **Current Focus**
 
-Creating tools that help people learn, think, and stay productive
+*Growing FallenWorldStudios into a fully independent game studio
+
+*Building high-quality mobile games with replayability and challenge
+
+*Creating tools that help people learn, think, and stay productive
 
