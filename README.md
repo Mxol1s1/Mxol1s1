@@ -1,4 +1,4 @@
-👋🏾 Hi, I’m Mxolisi Magubane
+👋🏾 #Hi, I’m Mxolisi Magubane
 
 **Founder & Lead Developer at FallenWorldStudios**
 
@@ -26,7 +26,7 @@ I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2
 
    YourPDFScanner  a simple and reliable PDF scanning app
 
-   More games and experimental prototypes — check at www.fallenworldstudios.com
+   More games and experimental prototypes at [FallenWorldStudios](www.fallenworldstudios.com)
 
 
 🔧**Tech Stack**
