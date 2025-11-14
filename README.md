@@ -20,11 +20,11 @@ I run FallenWorldStudios, a small but ambitious studio focused on mobile apps, 2
 
 🧵 **Projects & Releases**
 
-   Paceblocks Words Blast: a word-puzzle mobile game
+   1. Paceblocks Words Blast: a word-puzzle mobile game
 
-   Jelly Maze Runner 2D: available on itch.io
+   2. Jelly Maze Runner 2D: available on itch.io
 
-   YourPDFScanner  a simple and reliable PDF scanning app
+   3. YourPDFScanner  a simple and reliable PDF scanning app
 
    More games and experimental prototypes at [FallenWorldStudios](www.fallenworldstudios.com)
 
